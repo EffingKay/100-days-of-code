@@ -21,10 +21,18 @@
 2. [Demo site for The Good Place API](https://good-place-quotes.glitch.me/)
 
 
-### Day 3: August 19, Sunday
+### Day 3: August 20, Monday
 
-**Today's Progress**: TBC
+**Today's Progress**: I started a new project - dashboard for all my heroku apps
 
-**Thoughts** n/a
+**Thoughts** It was easier than anticipated, the API is really good. I had some troubles with promises but solved it. Currently stuck on design - it looks terrible atm but I started looking into CSS Grid. This is a perfect project to test it out on.
+
+**Link(s) to work** n/a
+
+### Day 4: August 21, Tuesday
+
+**Today's Progress**: tbc
+
+**Thoughts** tbc
 
 **Link(s) to work** n/a
