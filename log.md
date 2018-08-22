@@ -31,8 +31,8 @@
 
 ### Day 4: August 21, Tuesday
 
-**Today's Progress**: tbc
+**Today's Progress**: wrote a draft for a new blog post
 
-**Thoughts** tbc
+**Thoughts** none
 
 **Link(s) to work** n/a
