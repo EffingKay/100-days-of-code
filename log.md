@@ -36,3 +36,11 @@
 **Thoughts** none
 
 **Link(s) to work** n/a
+
+### Day 5: August 22, Wednesday
+
+**Today's Progress**: Watched videos on cyber security 
+
+**Thoughts** Still on the beginner level so it's very high level and I haven't really learned that much. Pretty much everything is someghing that I already knew or something that is pretty obvious. Still, cannot wait to continue and see what intermediate and advanced level have got to offer.
+
+**Link(s) to work** Pluralsight's Security for Hackers and Developers: Overview
