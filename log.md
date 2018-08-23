@@ -44,3 +44,11 @@
 **Thoughts** Still on the beginner level so it's very high level and I haven't really learned that much. Pretty much everything is someghing that I already knew or something that is pretty obvious. Still, cannot wait to continue and see what intermediate and advanced level have got to offer.
 
 **Link(s) to work** Pluralsight's Security for Hackers and Developers: Overview
+
+### Day 6: August 23, Thursday
+
+**Today's Progress**: Worked on a new blog post about clean code
+
+**Thoughts** Ugh, missing last two examples but I'm too lazy to think of them. I'll finish them tmrw.
+
+**Link(s) to work** not yet
