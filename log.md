@@ -52,3 +52,15 @@
 **Thoughts** Ugh, missing last two examples but I'm too lazy to think of them. I'll finish them tmrw.
 
 **Link(s) to work** not yet
+
+### Day 7: August 24, Friday
+
+**Today's Progress**: Went ahead and added GraphQl to Good Place REST API I created on day 2 and created a demo app for graphQL so demonstrate how to make request to graphQL enpoint.
+
+**Thoughts** I was pleasantly surprised how easy it is to query graphQL on client side. For some reason I expected something more difficult. Anyway, the API is now in a good place (pun not intended), I should maybe think about looking for some graphQL APIs list or something similar to showcase it to more people. Demo app picked up quite nicely, it was featured at glicth's weekly top app list. If I could do the same for API, it'd be nice.
+
+**Link(s) to work**
+1. [The Good Place quote GraphQL API](https://good-place-quotes.herokuapp.com/graphql) and [source code](https://github.com/EffingKay/the-good-place-quotes)
+2. [Demo site for The Good Place GraphQL API](https://glitch.com/~good-place)
+3. [Published article on Clean Code](https://rozgonyiova.com/posts/cleaner-code/)
+
